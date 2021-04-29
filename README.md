@@ -1,10 +1,10 @@
 
 ### Hello, I am Avinash Andhale 👋
 
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about    related stuff
+- 🔭 I’m currently working on Assembly level programming for cortec processor ,sql and machine learning
+- 👯 I’m looking to collaborate on Embedded projects
+- 🤔 I’m looking for help with Web development
+- 💬 Ask me about  Embedded and electronics  related stuff
 - ⚡ Fun fact: 
 -  Connect me at 
 
