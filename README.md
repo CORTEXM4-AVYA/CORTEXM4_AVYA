@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on blogs
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Embedded related thiggs or any Electronic related stuff
--  Connect me at <a href="https://swapnilphalke97.wordpress.com/">swapnilphalke97.wordpress.com</a>
+
 
 
 [![Linkedin: avinash-andhale](https://img.shields.io/badge/-avinash-andhale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-andhale-22385193/)](https://www.linkedin.com/in/avinash-andhale-22385193/)
