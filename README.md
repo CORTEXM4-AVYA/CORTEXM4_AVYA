@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ARM ASSEMBLY LEVEL PROGRAMMING,SQL.
 - 👯 I’m looking to collaborate on blogs
 - 🤔 I’m looking for help with Data Science
-- 💬 Ask me about Embedded related thiggs or any Electronic related stuff
+- 💬 Ask me about Embedded related things or any Electronic related stuff
 
 
 
